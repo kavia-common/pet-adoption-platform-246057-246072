@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- -p <port> -H <host>",
+    "working_directory": "/home/kavia/workspace/code-generation/pet-adoption-platform-246057-246072/pet_adoption_frontend"
+}
